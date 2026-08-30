@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/borishop-web/static/css/main.f855e6bc.css",
-    "main.js": "/borishop-web/static/js/main.1c3d1fcb.js",
+    "main.js": "/borishop-web/static/js/main.c626398a.js",
     "static/js/453.749e9f77.chunk.js": "/borishop-web/static/js/453.749e9f77.chunk.js",
     "index.html": "/borishop-web/index.html",
     "main.f855e6bc.css.map": "/borishop-web/static/css/main.f855e6bc.css.map",
-    "main.1c3d1fcb.js.map": "/borishop-web/static/js/main.1c3d1fcb.js.map",
+    "main.c626398a.js.map": "/borishop-web/static/js/main.c626398a.js.map",
     "453.749e9f77.chunk.js.map": "/borishop-web/static/js/453.749e9f77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1c3d1fcb.js"
+    "static/js/main.c626398a.js"
   ]
 }
